@@ -1,3 +1,4 @@
+//to calculate number of nodes
 #include<cstdio>
 #include<conio.h>
  
